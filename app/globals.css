@@ -75,3 +75,10 @@ a.button{
   text-decoration: none;
   background: linear-gradient(45deg, #981e32 0%, #981e32 100%);
 }
+
+.main-container{
+  width: 80rem;
+  min-width: 80rem;
+  margin: 0 auto;
+  position: relative;
+}
