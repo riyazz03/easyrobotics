@@ -1,0 +1,29 @@
+.footer-wrapper{
+    background-color: #1e1e1e;
+    padding: 60px 0 80px;
+}
+
+.footer-container{
+    width: 80rem;
+    min-width: 80rem;
+    margin: 0 auto;
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    align-items: start;
+}
+
+.footer-wrapper h4{
+    color: white;
+    margin: 1.5rem 0;
+
+}
+.footer-links-blocks{
+    display: flex;
+    flex-direction: column;
+    gap: 0.8rem;
+}
+
+.footer-links-blocks .footer-address{
+    width: 10rem;
+}

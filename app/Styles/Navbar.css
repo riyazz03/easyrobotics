@@ -1,5 +1,5 @@
-.navbar-fixed{
-    position: relative;
+.navbar-fixed {
+  position: relative;
 }
 
 .nav-container {
@@ -10,48 +10,48 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 2.8rem 0;
-  padding-top: 4rem;
+  padding: 1.8rem 0;
+  padding-top: 4.5rem;
 }
 .nav-container-top {
-    width: 80rem;
-    min-width: 80rem;
-    margin: 0 auto;
-    position: relative;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-  }
+  width: 80rem;
+  min-width: 80rem;
+  margin: 0 auto;
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
 .nav-icon {
   width: 16.03rem;
 }
 
 .nav-logo {
-width: 100%;
+  width: 100%;
 }
 
-.nav-links{
-    display: flex;
-    justify-content: center;
-    gap: 1.25rem;
-    align-items: center;
-    color: #1e1e1e;
+.nav-links {
+  display: flex;
+  justify-content: center;
+  gap: 1.25rem;
+  align-items: center;
+  color: #1e1e1e;
 }
 
-.nav-links a{
-    color: #1e1e1e;
+.nav-links a {
+  color: #1e1e1e;
 }
 
-.overlay-navbar{
-    height: 3.125rem;
-    min-width: 3.125rem;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    min-width: 100%;
-    background-color: #1e1e1e;
+.overlay-navbar {
+  height: 3.125rem;
+  min-width: 3.125rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  min-width: 100%;
+  background-color: #1e1e1e;
 }

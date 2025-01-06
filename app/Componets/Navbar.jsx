@@ -23,7 +23,6 @@ export default function Navbar() {
           <a href="">News</a>
           <a href="">Brochures</a>
         </div>
-
       </div>
     </div>
   );
