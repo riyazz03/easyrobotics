@@ -1,0 +1,24 @@
+.home_about_section{
+    padding: 4rem;
+    background-color: #f2f2f2;
+}
+
+.home_about_heading{
+    width: 48.875rem;
+    margin-bottom: 1.5rem;
+}
+
+.about_contents_wrapper{
+    display: flex;
+    justify-content: left;
+    gap: 1.875rem;
+}
+
+.about_contents_block{
+    width: 44%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 1rem;
+    color: #555555;
+}
