@@ -14,7 +14,7 @@ export default function HomeAbout() {
                     <div className="about_contents_block">
                         <p>EasyRobotics is continuously working to expand its product line, because we know the future of industrial automation lies with collaborative robots. They are highly advanced tools that can make production less time consuming and also lowers the stress from the workers. Industrial robots provide a commendable support to the manufacturing sector.</p>
                         <p>To have a competitive edge in the industry, products like ProFeeder can provide enormous benefits to the manufacturers. Our company is built on principles to make your life easy with unmatchable innovative products that are the need of today. Innovator of Global Collaborative Robot Industrial Automation Solutions</p>
-                        <p>Our goal is to make your journey smooth and effortless with EasyRobotics, working with everyone who aims to grow and succeed. Throughout this exciting journey we consider ourselves the Innovator of Global Collaborative Robot Industrial Automation Solutions.</p>
+                        <p>Our goal is to mmake your journey smooth and effortless with EasyRobotics, working with everyone who aims to grow and succeed. Throughout this exciting journey we consider ourselves the Innovator of Global Collaborative Robot Industrial Automation Solutions.</p>
                     </div>
                 </div>
             </div>
