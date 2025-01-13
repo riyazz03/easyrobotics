@@ -18,6 +18,7 @@ export default function Navbar() {
           <a href="">Palletizing</a>
           <a href="">Welding</a>
           <a href="">Resources</a>
+          <a href="/about">About</a>
           <a href="">Distributors</a>
           <a href="">Contacts</a>
           <a href="">News</a>
